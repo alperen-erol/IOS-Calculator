@@ -1,3 +1,3 @@
 # A functional IOS calculator
 
- https://calcios.netlify.app/
+ # https://calcios.netlify.app/
